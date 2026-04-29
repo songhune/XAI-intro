@@ -2,6 +2,11 @@
 
 This repository is designed for **Google Colab-first practice**, assuming many students do not have a local Python environment.
 
+## Additional Documents
+
+- Korean translation: `README.ko.md`
+- Instructor notes: `LECTURE_NOTES.ko.md`
+
 ## 1) Getting Started in Colab (Recommended)
 
 1. Open Google Colab: `https://colab.research.google.com`
